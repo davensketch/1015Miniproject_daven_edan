@@ -14,6 +14,7 @@ Our objective is to utilize machine learning techniques, specifically Random For
 1. Data set for World Happiness
 2. Presentation Slides
 3. Our main project Notebook
+
    --> Data Cleaning and Preperation
    
    --> EDA ( Exploratory Data Analysis)
