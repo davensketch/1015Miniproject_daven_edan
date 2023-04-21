@@ -15,7 +15,9 @@ Our objective is to utilize machine learning techniques, specifically Random For
 2. Presentation Slides
 3. Our main project Notebook
    --> Data Cleaning and Preperation
+   
    --> EDA ( Exploratory Data Analysis)
+   
    --> Machine Learning Models ( Explained Below)
 
 # Models Used
