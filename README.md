@@ -5,7 +5,7 @@
 
 # About
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on analysing the [world happiness index](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2022) from the world report index.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on analysing the [World Happiness Index](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2022) from the world report index.
 # Problem Definition and Explanation
 The quest for happiness has evolved into a crucial component of both personal and social well-being in today's environment of fast change. We may learn a lot about the aspects that lead to a fulfilled and content populace by examining the factors that influence happiness in a nation. We can pinpoint important factors influencing happiness and spot trends and patterns that might have a big influence on total life satisfaction by analyzing a large dataset that includes numerous social, economic, and political variables. Understanding these characteristics enables us, organizations, and people to create and implement focused initiatives that can improve citizens' well-being, advance a more peaceful society, and ultimately develop a happier country.
 
