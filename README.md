@@ -10,3 +10,7 @@ For this project we used two different Machine Learning (ML) to help us with our
   2. Hierarchical Clustering
 
 
+# Conclusion
+. We have concluded that most factors (GDP, Social Support, etx...) are important and cannont be removed, besides Whisker High and Low, Rank and Country as they cannot be used as predictor variables.
+. The Bar chart for Random Forest shows conclusion of Tree created. suggesting that GDP per capita has the highest importance in influencing happiness in a country.
+. The more developed the country, (better social support, stronger economies) would tend to have a higher happiness score compared to underdeveloped countries.
