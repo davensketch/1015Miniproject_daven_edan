@@ -1,5 +1,7 @@
 # 1015Miniproject_daven_edan
 # Team Members
+* Daven Poon
+* Edan Loh 
 
 # About
 
