@@ -55,6 +55,13 @@ For this project we used two different Machine Learning (ML) to help us with our
 2. The Bar chart for Random Forest shows conclusion of Tree created. suggesting that GDP per capita has the highest importance in influencing happiness in a country.
 3. The more developed the country, (better social support, stronger economies) would tend to have a higher happiness score compared to underdeveloped countries.
 
+# Insights and what we have learnt
+* Using classification approach such as Random Forest to analyse categorical data
+* Modules such as AgglomerativeClustering from sklearn
+* Using a clustering approach to group similar data points into clusters based on their inherent properties
+
+
+
 # References
 * https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2022
 * https://www.datacamp.com/tutorial/random-forests-classifier-python
