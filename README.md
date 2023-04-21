@@ -66,5 +66,7 @@ For this project we used two different Machine Learning (ML) to help us with our
 * https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2022
 * https://www.datacamp.com/tutorial/random-forests-classifier-python
 * https://crunchingthedata.com/when-to-use-hierarchical-clustering/#:~:text=Another%20advantage%20of%20hierarchical%20clustering%20is%20that%20it%20can%20be,types%20such%20as%20Grower's%20distance.
+* https://slidesgo.com/theme/happy-stars-cv#search-happiness&position-4&results-189&rs=search
+
 
 
